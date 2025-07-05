@@ -34,7 +34,7 @@ pip install customtkinter
 
 ## How to Run
 
-Save the script as `desktop_cleaner.py` (or use the existing `branch2.py`), then run:
+Save the script as `desktop_cleaner.py` (or use the existing `cleaner.py`), then run:
 
 ```bash
 python desktop_cleaner.py
